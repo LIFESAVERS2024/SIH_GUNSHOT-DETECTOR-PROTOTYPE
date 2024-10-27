@@ -1,4 +1,4 @@
--#include <Servo.h>
+#include <Servo.h>
 
 const int soundSensorPin = A0;  // Sound sensor connected to analog pin A0
 const int redLEDPin = 8;       // Red LED connected to digital pin 8
